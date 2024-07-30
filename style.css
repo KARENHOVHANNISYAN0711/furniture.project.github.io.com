@@ -1,0 +1,340 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+#Nav{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.NavList{
+    width:30%;
+    display:flex;
+    justify-content:space-between;
+    list-style:none;
+}
+
+.NavList>li>a{
+    text-decoration:none;
+    color:#151515;
+    font-size:18px;
+}
+
+.NavBar{
+    display:none !important;
+}
+
+.NavBtn{
+    font-weight:700;
+    padding:6px 25px;
+    font-size:13px;
+    line-height:24px;
+    border-radius:0;
+    display:block;
+    color:#151515;
+    background-color:#ebebeb;
+    padding:12px 33px;
+    font-size:13px;
+    line-height:24px;
+    border-radius:0;
+    font-family:"Roboto", Helvetica, Arial, sans-serif;
+    transition:.33s all ease;
+    letter-spacing: .12em;
+    white-space: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-align: center;
+}
+
+.SectioneOne{
+    width:100%;
+    height:650px;
+    /* border:solid 1px; */
+    background-image:url("2.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.paragraftransformingyourspace{
+    color:#FFFFFF;
+    font-size:72px;
+    margin-left:160px;
+    padding-top:90px;
+}
+
+.SectioneOneTextPar{
+    width:50%;
+    height:170px;
+    /* border:solid 1px red; */
+    margin-left:175px;
+    margin-top:60px;
+}
+
+.paragrafourcompany{
+    font-size:25px;
+    color:#FEFEFE;
+}
+
+.paragrafdesignservices{
+    font-size:25px;
+    color:#FEFEFE;
+    margin-top:16px;
+}
+
+.paragrafourwork{
+    font-size:25px;
+    color:#FEFEFE;
+    margin-top:16px;
+}
+
+.Btn{
+    width:16%;
+    height:60px;
+    /* border:solid 1px; */
+    color:#FFFFFF;
+    font-size:18px;
+    background-color:#F39B00;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-left:175px;
+    cursor:pointer;
+
+}
+
+.Btn:hover{
+    background-color:#151515;
+    color:#FFFFFF;
+    transform:20s;
+}
+
+.SectionTwo{
+    padding:100px;
+}
+
+.SectionTwo-h2{
+    columns:#151515;
+    font-size:48px;
+    text-align:center;
+}
+
+.SectionTwoImgPar{
+    display:flex;
+    justify-content:center;
+    justify-content:space-evenly;
+    padding-top:40px;
+}
+
+.SectionTwoImg{
+    cursor:pointer;
+    border-style:none;
+}
+
+.SectionTwoImg:hover{
+   
+}
+
+.SectionTwo-h4{
+    font-size:20px;
+    color:#151515;
+    text-align:center;
+    padding-top:20px;
+}
+
+.SectionTwo-h4:hover{
+    transform:1s;
+    color:#E4A31C;
+}
+
+.SectionThree{
+    padding:100px;
+}
+
+.SectionThreeImgPar{
+    display:flex;
+    justify-content:center;
+    justify-content:space-evenly;
+    padding-top:40px;
+}
+
+.SectionThreeImg{
+    cursor:pointer;
+    border-style:none;
+}
+
+.SectionTwoImg:hover{
+   
+}
+
+.SectionTwo-h4{
+    font-size:20px;
+    color:#151515;
+    text-align:center;
+    padding-top:20px;
+}
+
+.SectionTwo-h4:hover{
+    transform:1s;
+    color:#E4A31C;
+}
+
+.SectionFoure{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:70px;
+    background-color:#F2F3F8;
+}
+
+
+.SectionFoure-h2{
+    font-size:48px;
+    columns:#141414;
+}
+
+.sectionfoureparagraf{
+    width:400px;
+    font-size:1em;
+    color:#9B9B9B;
+    padding-left:5px;
+    padding-top:30px;
+}
+
+.ReadMore-Btn{
+    display:inline-block;
+    width:auto;
+    max-width:100%;
+    padding:12px 33px;
+    font-size:13px;
+    line-height:24px;
+    border-radius:0;
+    font-family:"Roboto", Helvetica, Arial, sans-serif;
+    font-weight:700;
+    transition:.33s all ease;
+    border:3px solid;
+    letter-spacing:.12em;
+    white-space:normal;
+    text-transform:uppercase;
+    cursor:pointer;
+    text-align:center;
+    background-color:#2A2A2A;
+    color:#FFFFFF;
+    margin-top:50px;
+}
+
+.SectionFive{
+    padding:80px;
+}
+
+.SectionFiveWallpaperTextPar{
+    display:flex;
+    justify-content:center;
+}
+
+.SectionFiveWallpaperPar{
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+    padding-top:50px;
+}
+
+.SectionFiveTextPar{
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.SectionFive-h2{
+    font-size:48px;
+    color:#141414;
+}
+
+.paragrafsectionfive{
+    font-size:13px;
+    color:#141414;
+}
+
+.paragrafsectionfiveText{
+    color:#141414;
+    font-size:18px;
+    padding-right:30px;
+}
+
+.paragrafsectionfiveTextTwo{
+    color:#141414;
+    font-size:18px;
+}
+
+.SectionFiveText{
+    display:flex;
+    justify-content:space-around;
+    text-align:center;
+}
+
+.footer{
+    width:100%;
+    min-height:300px;
+    border:solid 1px;
+    background-color:#232323;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    justify-content:space-around;
+}
+
+.footernav{
+    width:70%;
+    min-height:100px;
+}
+
+.footerlist{
+    display:flex;
+    justify-content:space-between;
+    list-style:none;
+    padding:50px;
+}
+
+.footerlist>li>a:hover{
+    color:#F39B00;
+    transform:4s;
+}
+
+.footerlist>li>a{
+    color:#FFFFFF;
+    text-decoration:none;
+    font-size:20px;
+}
+
+.footercontactpar{
+    width:70%;
+    min-height:100px;
+    margin:0 auto;
+    display:flex;
+    justify-content:space-between;
+}
+
+.footerpragraf{
+    color:#FFFFFF;
+    font-size:20px;
+}
+
+.footericonpar{
+    width:15%;
+    display:flex;
+    justify-content:space-between;
+}
+
+.footericon{
+    color:#ffffff;
+    font-size:30px;
+    cursor:pointer;
+}
+
+.footericon:hover{
+    color:#F39B00;
+    transform:4s;
+}

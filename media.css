@@ -1,0 +1,319 @@
+@media only screen and (max-width:1290px){
+     .Btn{
+        font-size:15px;
+     }
+     .SectionFoure-h2{
+        font-size:38px;
+     }
+}
+
+@media only screen and (max-width:1215px){
+      .NavList>li>a{
+        font-size:15px;
+      }
+}
+
+@media only screen and (max-width:1176px){
+     .sectionfoureparagraf{
+        width:300px;
+     }
+     .SectionFoure-h2{
+        font-size:30px;
+     }
+}
+
+@media only screen and (max-width:1120px){
+     .SectionFiveImg{
+        width:150px;
+     }
+     .paragrafsectionfiveText{
+        font-size:15px;
+     }
+}
+
+@media only screen and (max-width:1070px){
+    .sectionfoureparagraf{
+       width:270px;
+    }
+}
+
+@media only screen and (max-width:1074px){
+    .footerlist>li>a{
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:1050px){
+    .NavList>li>a{
+        font-size:13px;
+    }
+}
+
+@media only screen and (max-width:991px){
+     .SectionTwoImgPar{
+        flex-direction:column;
+     }
+     .SectionTwoWallpaperParOne{
+        margin:0 auto;
+     }
+     .SectionTwoWallpaperParTwo{
+        margin:0 auto;
+        padding-top:30px;
+     }
+     .SectionThreeImgPar{
+        flex-direction:column;
+     }
+     .SectionThreeWallpaperParOne{
+        margin:0 auto;
+     }
+     .SectionThreeWallpaperParTwo{
+        margin:0 auto;
+        padding-top:30px;
+     }
+     .SectionFoure{
+        flex-direction:column;
+     }
+     .SectionFoureImg{
+        padding-top:30px;
+     }
+     .SectionFiveWallpaperPar{
+        flex-direction:column;
+     }
+     .SectionFiveImg{
+        margin:0 auto;
+        padding:10px;
+     }
+     .paragrafsectionfiveText{
+        display:none;
+     }
+     .NavList{
+        display:none;
+     }
+     .NavBtn{
+        display:none;
+     }
+     .NavBar{
+        display:block !important;
+        font-size:30px;
+     }
+     .Logo{
+        font-size:100px !important;
+        padding-right:100px;
+     }
+    .footerpragraf{
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:992px){
+    .sectioneoneparagraftransformin{
+        font-size:56px;
+        line-height:1.4;
+    }
+    .Btn{
+        width:25%;
+    }
+    .SectioneOne{
+        background-size:cover;
+    }
+    .paragrafourcompany{
+        font-size:21px;
+    }
+    .paragrafdesignservices{
+        font-size:21px;
+    }
+    .paragrafourwork{
+        font-size:21px;
+    }
+}
+
+
+@media only screen and (max-width:988px){
+     .Logo{
+        font-size:30px;
+     }
+}
+
+@media only screen and (max-width:950px){
+    .Logo{
+       font-size:35px !important;
+    }
+}
+
+
+@media only screen and (max-width:946px){
+    .Logo{
+       font-size:30px !important;
+    }
+}
+
+@media only screen and (max-width:911px){
+    .paragraftransformingyourspace{
+        font-size:50px;
+    }
+}
+
+@media only screen and (max-width:850px){
+    .Btn{
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:871px){
+    .Logo{
+        font-size:30px;
+    }
+}
+
+@media only screen and (max-width:850px){
+    .footerlist>li>a{
+        font-size:13px;
+    }
+    .footercontactpar{
+        flex-direction:column;
+    }
+    .footerpragraf{
+        text-align:center;
+    }
+    .footericonpar{
+        margin:0 auto;
+        width:200px;
+    }
+}
+
+@media only screen and (max-width:780px){
+    .footerlist>li>a{
+        font-size:15px;
+    }
+    .footerlist{
+        flex-direction:column;
+        text-align:center;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .paragraftransformingyourspace{
+        font-size:56px;
+        margin-left:80px;
+    }
+    .SectioneOneTextPar{
+        margin-left:90px;
+        margin-bottom:50px;
+    }
+    .paragrafourcompany{
+        font-size:23px;
+    }
+    .Btn{
+        margin-left:90px;
+        margin-top:10px;
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:751px){
+    .Btn{
+       font-size:13px;
+    }
+}
+
+@media only screen and (max-width:695px){
+    .SectionFoure-h2{
+        font-size:38px;
+    }
+}
+
+@media only screen and (max-width:676px){
+    .paragraftransformingyourspace{
+        font-size:30px;
+    }
+    .Btn{
+        font-size:10px;
+    }
+}
+
+@media only screen and (max-width:660px){
+    .SectionFoureImg{
+        width:500px;
+    }
+}
+
+@media only screen and (max-width:550px){
+    .SectionFoureImg{
+        width:450px;
+    }
+}
+
+@media only screen and (max-width:500px){
+    .Btn{
+        display:none !important;
+    }
+}
+
+@media only screen and (max-width:514px){
+    .SectionTwoImg{
+        width:300px;
+    }
+    .SectionTwo-h2{
+        font-size:30px;
+    }
+    .SectionThreeImg{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:525px){
+    .SectionFive-h2{
+        font-size:30px;
+    }
+}
+
+@media only screen and (max-width:451px){
+    .paragraftransformingyourspace{
+        font-size:36px;
+        margin-left:15px;
+    }
+    .SectioneOneTextPar{
+        width:93%;
+        margin-left:17px;
+        margin-bottom:30px;
+    }
+    .paragrafourcompany{
+        font-size:20px;
+    }
+    .Btn{
+        width:56%;
+        height:50px;
+        margin-left:48px;
+    }
+    .SectioneOne{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:490px){
+    .SectionFoureImg{
+        width:350px;
+    }
+}
+
+@media only screen and (max-width:444px){
+    .paragrafsectionfive{
+        display:none;
+    }
+}
+
+
+@media only screen and (max-width:376px){
+    .SectionFoure-h2{
+        font-size:30px;
+        text-align:center;
+    }
+    .sectionfoureparagraf{
+        width:300px;
+        padding:20px;
+    }
+    .ReadMore-Btn{
+        display:block;
+        margin:0 auto;
+    }
+}
